@@ -1,3 +1,3 @@
 # WaterPuzzle
-This game is a clone of <b>Water Puzzle</b> game.
+This game is a clone of <b>Water Puzzle</b> game built in Unity.
  
